@@ -4,7 +4,7 @@
 git clone https://github.com/usg-ishimura/expressBookReviews.git
 cd expressBookReviews/final_project
 npm install
-npm run
+npm start
 ```
 ### Get a list of all books
 ```sh
